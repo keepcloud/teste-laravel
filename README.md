@@ -44,7 +44,6 @@ Avaliar as habilidades do candidato em Laravel, compreensão e análise de requi
 
 8. **Documentação:**
    - Documente seu código de forma clara e concisa.
-   - Inclua instruções para execução e configuração do projeto.
 
 **Avaliação:**
 O candidato será avaliado com base na implementação correta dos requisitos, a qualidade do código, a inovação apresentada e a capacidade de resolução de problemas. A documentação e os testes também serão considerados na avaliação.
