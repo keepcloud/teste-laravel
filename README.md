@@ -7,7 +7,7 @@ Avaliar as habilidades do candidato em Laravel, compreensão e análise de requi
 1. Criar um sistema CRUD para gerenciar cadastros de sócios.
 2. Cada sócio deve ter informações como nome, tipo de sócio (silver ou gold) e endereço.
 3. O endereço deve ser preenchido automaticamente via integração com a API do ViaCEP (https://viacep.com.br/).
-4. Utilizar Livewire 3 para tornar a interface mais dinâmica e interativa (Opcional).
+4. (opcional) Utilizar Livewire 3 para tornar a interface mais dinâmica e interativa.
 5. Implementar um sistema de autenticação para acesso ao CRUD.
 6. Utilizar o sistema de templates Blade para renderizar as views.
 
@@ -25,7 +25,7 @@ Avaliar as habilidades do candidato em Laravel, compreensão e análise de requi
 3. **CRUD de Sócios:**
    - Crie um modelo (Model) e uma migração para os sócios.
    - Implemente as rotas, controladores (Controllers) e as views necessárias para o CRUD.
-   - Utilize Livewire 3 para tornar a interface mais dinâmica.
+   - (opcional) Utilize Livewire 3 para tornar a interface mais dinâmica.
 
 4. **Integração com ViaCEP:**
    - Implemente a integração com a API do ViaCEP para preenchimento automático do endereço.
